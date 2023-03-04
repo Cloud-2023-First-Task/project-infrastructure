@@ -1,7 +1,7 @@
 # Simple Flask App
 
 
-- Instalation of Flask and running a simple app:
+- Terraform run:
 
   ```
   # Use commands:
